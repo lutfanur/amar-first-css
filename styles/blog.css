@@ -1,0 +1,43 @@
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+    font-family: 'Courier New', Courier, monospace;
+}
+.header{
+    height: 300px;
+    background-color: bisque;
+    background-image:url(new\ year\ cake.jpg) ;
+    /* background-image: url("../photos/sky.png"); */
+    /* background-repeat: no-repeat; */
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-size: cover; */
+    /* background-size: contain; */
+    background-size:200px ;
+}
+.amet{
+    border: 2px solid peru;
+    height: 60px;
+    display: inline-block;
+}
+.blog{
+    margin: 40px;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px 20px blueviolet;
+}
+.close{
+    border: 2px solid palevioletred;
+   /* height: 200px; height dont work in block */
+   /* display: block; */
+   margin: 20px;
+   display: inline-block;
+
+}
+
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+li{
+    /* display: inline; */
+}
